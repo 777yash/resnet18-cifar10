@@ -12,8 +12,6 @@ This project implements a ResNet-18 convolutional neural network for image class
 - Visualization of training & validation loss and accuracy curves
 - Per-class accuracy evaluation on test dataset
 - Visualization of model predictions on CIFAR-10 images
-- Model saving for future reuse
-
 ---
 
 ## Getting Started
@@ -118,7 +116,6 @@ The trained model will be saved as `resnet18_cifar10.pth`.
 ---
 
 ## Folder Structure
----
 
 ```
 resnet18-cifar10/
