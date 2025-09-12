@@ -123,7 +123,7 @@ resnet18-cifar10/
 ├── README.md
 ├── requirements.txt
 ├── train_resnet18_cifar10.py
-├── ResNet_18_Image_Classification_System.ipynb     // Google colab Notebook
+├── ResNet_18_Image_Classification_System.ipynb
 └── images/
 ├── cifar10_sample.png
 ├── training_validation_curves.png
