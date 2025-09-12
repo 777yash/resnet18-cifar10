@@ -113,7 +113,7 @@ Overall test accuracy: **84.40%**
 
 ## Model Saving and Loading
 
-The trained model is saved as `resnet18_cifar10.pth`. You can load this saved model for inference or further fine-tuning.
+The trained model will be saved as `resnet18_cifar10.pth`.
 
 ---
 
